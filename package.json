@@ -23,10 +23,24 @@
     {
       "name": "start-10-minute-timer",
       "title": "Start 10 Minute Timer",
+      "description": "Start a 10 minute timer",
+      "mode": "no-view"
+    }
+  ,
+    {
+      "name": "start-stopwatch",
+      "title": "Start Stopwatch",
       "description": "",
       "mode": "no-view"
     }
-  ],
+      ,
+    {
+      "name": "stop-stopwatch",
+      "title": "Stop Stopwatch",
+      "description": "",
+      "mode": "no-view"
+    }
+      ],
   "tools": [],
   "dependencies": {
     "@raycast/api": "^1.103.2",

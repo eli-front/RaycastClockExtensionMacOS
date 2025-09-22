@@ -1,4 +1,4 @@
-import { startTimer } from "./start-timer";
+import { startTimer } from "./helpers";
 
 export default async () => startTimer(5);
 
